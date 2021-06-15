@@ -6,7 +6,7 @@ Revision 0 - I do not reccomend making this at the moment, it is more expensive 
 
 Revision 1 **(In Progress)** - Fixes the flaws of Revision 0 and will improve the design for easier construction
 
-Revision 2 **(Not a final plan)** - Adds an acrylic window on the left and adds gaskets for better isolation
+Revision 2 **(Not Final)** - Adds an acrylic window on the left and adds gaskets for better isolation
 
 ## Features
 - Rotary Encoder
@@ -15,6 +15,9 @@ Revision 2 **(Not a final plan)** - Adds an acrylic window on the left and adds 
 - Easy Assembly (Entirely through hole, with 
 - Budget Oriented
 - Compatible with a variety of Microcontrollers
+
+## Make Your Own
+[Parts List](PartsList.md)
 
 ## Images
 ![Keyboard](resources/photoshoot.png)
