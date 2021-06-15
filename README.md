@@ -3,7 +3,9 @@
 ## A Budget-Oriented Ortholinear Keyboard
 
 Revision 0 - I do not reccomend making this at the moment, it is more expensive and time consuming to build then it needs to be
+
 Revision 1 **(In Progress)** - Fixes the flaws of Revision 0 and will improve the design for easier construction
+
 Revision 2 **(Not a final plan)** - Adds an acrylic window on the left and adds gaskets for better isolation
 
 ## Features
