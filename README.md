@@ -14,4 +14,8 @@ Revision 2 **(Not a final plan)** - Adds an acrylic window on the left and adds 
 - Budget Oriented
 - Compatible with a variety of Microcontrollers
 
+## Images
 ![Keyboard](resources/photoshoot.png)
+
+## Default Keymap
+(put keymap image here)
