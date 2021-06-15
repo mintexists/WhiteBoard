@@ -12,7 +12,7 @@ Revision 2 **(Not Final)** - Adds an acrylic window on the left and adds gaskets
 - Rotary Encoder
 - Hot Swappable switches
 - QMK and VIA support (Not upstream)
-- Easy Assembly (Entirely through hole, with 
+- Easy Assembly (Can be made entirely through hole)
 - Budget Oriented
 - Compatible with a variety of Microcontrollers
 
