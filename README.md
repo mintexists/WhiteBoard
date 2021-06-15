@@ -23,4 +23,8 @@ Revision 2 **(Not Final)** - Adds an acrylic window on the left and adds gaskets
 ![Keyboard](resources/photoshoot.png)
 
 ## Default Keymap
-(put keymap image here)
+![1](resources/keymap1.png)
+![2](resources/keymap2.png)
+![3](resources/keymap3.png)
+![4](resources/keymap4.png)
+
