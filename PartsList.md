@@ -1,7 +1,10 @@
-# Parts List
-
-| Name | Count | Comment | Cost | Recommended |
-|------|-------|---------|------|-------------|
-|      |       |         |      |             |
-|      |       |         |      |             |
-|      |       |         |      |             |
+| Name                                 | Count | Comment                                                                                                                                                    | Cost        | Recommended                                                                                 |
+|--------------------------------------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------|
+| PCB                                  | 1     | Many sites have minimum order quantities larger then 1                                                                                                     | $14.30      | JLCPCB                                                                                      |
+| Plate                                | 1     | Many sites have minimum order quantities larger then 1                                                                                                     | $30.00      | JLCPCB                                                                                      |
+| Bottom Plate                         | 1     | Many sites have minimum order quantities larger then 1                                                                                                     | $15.80      | JLCPCB                                                                                      |
+| Pro Micro Compatible Microcontroller | 1     | I recommend the Elite=C by Keebio                                                                                                                          | $18         | https://keeb.io/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4 |
+| Diodes                               | 60    | Get more to be safe                                                                                                                                        | $2.99       | https://keeb.io/products/1n4148-diodes                                                      |
+| Hot Swap Sockets                     | 60    | Get more to be safe                                                                                                                                        | $10 for 100 | https://kbdfans.com/products/mechanical-keyboard-switches-kailh-pcb-socket                  |
+| M2 Screws                            | 100   | This is more then needed but good to be safe                                                                                                               |             |                                                                                             |
+| M2 Standoffs                         |       | Needs to be heights with a difference of 5mm, for example 5mm and 10mm or 3mm and 8mm<br>(Make sure the screws aren't too long in case of short standoffs) |             |                                                                                             |
