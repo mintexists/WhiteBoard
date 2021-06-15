@@ -14,4 +14,4 @@ Revision 2 **(Not a final plan)** - Adds an acrylic window on the left and adds 
 - Budget Oriented
 - Compatible with a variety of Microcontrollers
 
-Images here
+![Keyboard](resources/photoshoot.png)
