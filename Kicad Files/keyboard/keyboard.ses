@@ -1,0 +1,343 @@
+(session Z:\letsmakeakeyboard\Prehistoric\keyboard\keyboard.ses
+(base_design "..\keyboard.dsn")
+      (placement 
+         (resolution mm 100000)
+         (component "BMP:a"
+            (place "G***" 3095690 -10001500 front 0.00)
+         )
+         (component "MountingHole:MountingHole_3.2mm_M3"
+            (place "H20" 27385000 -11668400 front 0.00)
+            (place "H19" 27385000 -2143170 front 0.00)
+            (place "H18" 19764800 -11668400 front 0.00)
+            (place "H17" 19764800 -5953250 front 0.00)
+            (place "H16" 19764800 -2143170 front 0.00)
+            (place "H15" 12144600 -11668400 front 0.00)
+            (place "H14" 12144600 -5953250 front 0.00)
+            (place "H13" 12144600 -2143170 front 0.00)
+            (place "H12" 4524470 -11668400 front 0.00)
+            (place "H11" 4524470 -2143170 front 0.00)
+         )
+         (component "MountingHole:MountingHole_2.2mm_M2"
+            (place "H10" 26908700 -11668400 front 0.00)
+            (place "H9" 26908700 -2143170 front 0.00)
+            (place "H8" 15954700 -11668400 front 0.00)
+            (place "H7" 15954700 -5953250 front 0.00)
+            (place "H6" 15954700 -2143170 front 0.00)
+            (place "H5" 5000730 -11668400 front 0.00)
+            (place "H4" 5000730 -2143170 front 0.00)
+            (place "H3" 3095690 -6191380 front 0.00)
+            (place "H2" 2143170 -11668400 front 0.00)
+            (place "H1" 2143170 -2143170 front 0.00)
+         )
+         (component "keyboard_parts:D_SOD123_axial"
+            (place "D_59" 4524470 -7382030 back 270.00)
+            (place "D_58" 27284500 -10765700 back 270.00)
+            (place "D_57" 25379500 -10765700 back 270.00)
+            (place "D_56" 23474500 -10765700 back 270.00)
+            (place "D_55" 21569500 -10765700 back 270.00)
+            (place "D_54" 19664500 -10765700 back 270.00)
+            (place "D_53" 17759500 -10765700 back 270.00)
+            (place "D_52" 13949500 -10765700 back 270.00)
+            (place "D_51" 12044500 -10765700 back 270.00)
+            (place "D_50" 10139500 -10765700 back 270.00)
+            (place "D_49" 8234470 -10765700 back 270.00)
+            (place "D_48" 6329470 -10765700 back 270.00)
+            (place "D_47" 27284500 -8860670 back 270.00)
+            (place "D_46" 25379500 -8860670 back 270.00)
+            (place "D_45" 23474500 -8860670 back 270.00)
+            (place "D_44" 21569500 -8860670 back 270.00)
+            (place "D_43" 19664500 -8860670 back 270.00)
+            (place "D_42" 17759500 -8860670 back 270.00)
+            (place "D_41" 15854500 -8860670 back 270.00)
+            (place "D_40" 13949500 -8860670 back 270.00)
+            (place "D_39" 12044500 -8860670 back 270.00)
+            (place "D_38" 10139500 -8860670 back 270.00)
+            (place "D_37" 8234470 -8860670 back 270.00)
+            (place "D_36" 6329470 -8860670 back 270.00)
+            (place "D_35" 27284500 -6955670 back 270.00)
+            (place "D_34" 25379500 -6955670 back 270.00)
+            (place "D_33" 23474500 -6955670 back 270.00)
+            (place "D_32" 21569500 -6955670 back 270.00)
+            (place "D_31" 19664500 -6955670 back 270.00)
+            (place "D_30" 17759500 -6955670 back 270.00)
+            (place "D_29" 15854500 -6955670 back 270.00)
+            (place "D_28" 13949500 -6955670 back 270.00)
+            (place "D_27" 12044500 -6955670 back 270.00)
+            (place "D_26" 10139500 -6955670 back 270.00)
+            (place "D_25" 8234470 -6955670 back 270.00)
+            (place "D_24" 6329470 -6955670 back 270.00)
+            (place "D_23" 27284500 -5050670 back 270.00)
+            (place "D_22" 25379500 -5050670 back 270.00)
+            (place "D_21" 23474500 -5050670 back 270.00)
+            (place "D_20" 21569500 -5050670 back 270.00)
+            (place "D_19" 19664500 -5050670 back 270.00)
+            (place "D_18" 17759500 -5050670 back 270.00)
+            (place "D_17" 15854500 -5050670 back 270.00)
+            (place "D_16" 13949500 -5050670 back 270.00)
+            (place "D_15" 12044500 -5050670 back 270.00)
+            (place "D_14" 10139500 -5050670 back 270.00)
+            (place "D_13" 8234470 -5050670 back 270.00)
+            (place "D_12" 6329470 -5050670 back 270.00)
+            (place "D_11" 27284500 -3145670 back 270.00)
+            (place "D_10" 25379500 -3145670 back 270.00)
+            (place "D_9" 23474500 -3145670 back 270.00)
+            (place "D_8" 21569500 -3145670 back 270.00)
+            (place "D_7" 19664500 -3145670 back 270.00)
+            (place "D_6" 17759500 -3145670 back 270.00)
+            (place "D_5" 15854500 -3145670 back 270.00)
+            (place "D_4" 13949500 -3145670 back 270.00)
+            (place "D_3" 12044500 -3145670 back 270.00)
+            (place "D_2" 10139500 -3145670 back 270.00)
+            (place "D_1" 8234470 -3145670 back 270.00)
+            (place "D_0" 6329470 -3145670 back 270.00)
+         )
+         (component "Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+            (place "SW2" 3095690 -7143900 front 0.00)
+         )
+         (component "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+            (place "SW1" 3095690 -8334550 front 0.00)
+         )
+         (component "keyswitches:Kailh_socket_MX"
+            (place "K_58" 26432000 -10715700 front 0.00)
+            (place "K_57" 24527000 -10715700 front 0.00)
+            (place "K_56" 22622000 -10715700 front 0.00)
+            (place "K_55" 20717000 -10715700 front 0.00)
+            (place "K_54" 18812000 -10715700 front 0.00)
+            (place "K_53" 15954500 -10715700 front 0.00)
+            (place "K_52" 13097000 -10715700 front 0.00)
+            (place "K_51" 11192000 -10715700 front 0.00)
+            (place "K_50" 9286970 -10715700 front 0.00)
+            (place "K_49" 7381970 -10715700 front 0.00)
+            (place "K_48" 5476970 -10715700 front 0.00)
+            (place "K_47" 26432000 -8810670 front 0.00)
+            (place "K_46" 24527000 -8810670 front 0.00)
+            (place "K_45" 22622000 -8810670 front 0.00)
+            (place "K_44" 20717000 -8810670 front 0.00)
+            (place "K_43" 18812000 -8810670 front 0.00)
+            (place "K_42" 16907000 -8810670 front 0.00)
+            (place "K_41" 15002000 -8810670 front 0.00)
+            (place "K_40" 13097000 -8810670 front 0.00)
+            (place "K_39" 11192000 -8810670 front 0.00)
+            (place "K_38" 9286970 -8810670 front 0.00)
+            (place "K_37" 7381970 -8810670 front 0.00)
+            (place "K_36" 5476970 -8810670 front 0.00)
+            (place "K_35" 26432000 -6905670 front 0.00)
+            (place "K_34" 24527000 -6905670 front 0.00)
+            (place "K_33" 22622000 -6905670 front 0.00)
+            (place "K_32" 20717000 -6905670 front 0.00)
+            (place "K_31" 18812000 -6905670 front 0.00)
+            (place "K_30" 16907000 -6905670 front 0.00)
+            (place "K_29" 15002000 -6905670 front 0.00)
+            (place "K_28" 13097000 -6905670 front 0.00)
+            (place "K_27" 11192000 -6905670 front 0.00)
+            (place "K_26" 9286970 -6905670 front 0.00)
+            (place "K_25" 7381970 -6905670 front 0.00)
+            (place "K_24" 5476970 -6905670 front 0.00)
+            (place "K_23" 26432000 -5000670 front 0.00)
+            (place "K_22" 24527000 -5000670 front 0.00)
+            (place "K_21" 22622000 -5000670 front 0.00)
+            (place "K_20" 20717000 -5000670 front 0.00)
+            (place "K_19" 18812000 -5000670 front 0.00)
+            (place "K_18" 16907000 -5000670 front 0.00)
+            (place "K_17" 15002000 -5000670 front 0.00)
+            (place "K_16" 13097000 -5000670 front 0.00)
+            (place "K_15" 11192000 -5000670 front 0.00)
+            (place "K_14" 9286970 -5000670 front 0.00)
+            (place "K_13" 7381970 -5000670 front 0.00)
+            (place "K_12" 5476970 -5000670 front 0.00)
+            (place "K_11" 26432000 -3095670 front 0.00)
+            (place "K_10" 24527000 -3095670 front 0.00)
+            (place "K_9" 22622000 -3095670 front 0.00)
+            (place "K_8" 20717000 -3095670 front 0.00)
+            (place "K_7" 18812000 -3095670 front 0.00)
+            (place "K_6" 16907000 -3095670 front 0.00)
+            (place "K_5" 15002000 -3095670 front 0.00)
+            (place "K_4" 13097000 -3095670 front 0.00)
+            (place "K_3" 11192000 -3095670 front 0.00)
+            (place "K_2" 9286970 -3095670 front 0.00)
+            (place "K_1" 7381970 -3095670 front 0.00)
+            (place "K_0" 5476970 -3095670 front 0.00)
+         )
+         (component "Keebio-Parts:ArduinoProMicro-ZigZag"
+            (place "U1" 3095690 -4286340 front 270.00)
+         )
+      )
+      (routes
+         (resolution mm 100000)
+         (library_out
+            (padstack "Via[0-1]_800:400_um"
+               (shape (circ signal 80000 0 0))
+            )
+         )
+         (network_out
+            (net "col0"
+            )
+            (net "col1"
+            )
+            (net "col2"
+            )
+            (net "col3"
+            )
+            (net "col4"
+            )
+            (net "col5"
+            )
+            (net "row0"
+            )
+            (net "row1"
+            )
+            (net "row2"
+            )
+            (net "row3"
+            )
+            (net "row4"
+            )
+            (net "row5"
+            )
+            (net "Net-(D_0-Pad2)"
+            )
+            (net "Net-(D_1-Pad2)"
+            )
+            (net "Net-(D_2-Pad2)"
+            )
+            (net "Net-(D_3-Pad2)"
+            )
+            (net "Net-(D_4-Pad2)"
+            )
+            (net "Net-(D_5-Pad2)"
+            )
+            (net "Net-(D_6-Pad2)"
+            )
+            (net "Net-(D_7-Pad2)"
+            )
+            (net "Net-(D_8-Pad2)"
+            )
+            (net "Net-(D_9-Pad2)"
+            )
+            (net "Net-(D_10-Pad2)"
+            )
+            (net "Net-(D_11-Pad2)"
+            )
+            (net "Net-(D_12-Pad2)"
+            )
+            (net "Net-(D_13-Pad2)"
+            )
+            (net "Net-(D_14-Pad2)"
+            )
+            (net "Net-(D_15-Pad2)"
+            )
+            (net "Net-(D_16-Pad2)"
+            )
+            (net "Net-(D_17-Pad2)"
+            )
+            (net "Net-(D_18-Pad2)"
+            )
+            (net "Net-(D_19-Pad2)"
+            )
+            (net "Net-(D_20-Pad2)"
+            )
+            (net "Net-(D_21-Pad2)"
+            )
+            (net "Net-(D_22-Pad2)"
+            )
+            (net "Net-(D_23-Pad2)"
+            )
+            (net "Net-(D_24-Pad2)"
+            )
+            (net "Net-(D_25-Pad2)"
+            )
+            (net "Net-(D_26-Pad2)"
+            )
+            (net "Net-(D_27-Pad2)"
+            )
+            (net "Net-(D_28-Pad2)"
+            )
+            (net "Net-(D_29-Pad2)"
+            )
+            (net "Net-(D_30-Pad2)"
+            )
+            (net "Net-(D_31-Pad2)"
+            )
+            (net "Net-(D_32-Pad2)"
+            )
+            (net "Net-(D_33-Pad2)"
+            )
+            (net "Net-(D_34-Pad2)"
+            )
+            (net "Net-(D_35-Pad2)"
+            )
+            (net "Net-(D_36-Pad2)"
+            )
+            (net "Net-(D_37-Pad2)"
+            )
+            (net "Net-(D_38-Pad2)"
+            )
+            (net "Net-(D_39-Pad2)"
+            )
+            (net "Net-(D_40-Pad2)"
+            )
+            (net "Net-(D_41-Pad2)"
+            )
+            (net "Net-(D_42-Pad2)"
+            )
+            (net "Net-(D_43-Pad2)"
+            )
+            (net "Net-(D_44-Pad2)"
+            )
+            (net "Net-(D_45-Pad2)"
+            )
+            (net "Net-(D_46-Pad2)"
+            )
+            (net "Net-(D_47-Pad2)"
+            )
+            (net "Net-(D_48-Pad2)"
+            )
+            (net "Net-(D_49-Pad2)"
+            )
+            (net "Net-(D_50-Pad2)"
+            )
+            (net "Net-(D_51-Pad2)"
+            )
+            (net "Net-(D_52-Pad2)"
+            )
+            (net "Net-(D_53-Pad2)"
+            )
+            (net "Net-(D_54-Pad2)"
+            )
+            (net "Net-(D_55-Pad2)"
+            )
+            (net "Net-(D_56-Pad2)"
+            )
+            (net "Net-(D_57-Pad2)"
+            )
+            (net "Net-(D_58-Pad2)"
+            )
+            (net "row6"
+            )
+            (net "row7"
+            )
+            (net "row8"
+            )
+            (net "row9"
+            )
+            (net "/swa2"
+            )
+            (net "Net-(SW1-Pad2)"
+            )
+            (net "Net-(SW1-Pad1)"
+            )
+            (net "/rotb"
+            )
+            (net "Net-(SW2-PadC)"
+            )
+            (net "/rota"
+            )
+            (net "Net-(U1-Pad24)"
+            )
+            (net "Net-(U1-Pad21)"
+            )
+            (net "Net-(U1-Pad4)"
+            )
+         )
+      )
+   )
