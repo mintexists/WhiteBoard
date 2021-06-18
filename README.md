@@ -15,7 +15,9 @@ Planned Improvements - Add support for an acrylic window for the components on t
 - Compatible with a variety of Microcontrollers
 
 ## Make Your Own
+
 [Parts List](PartsList.md)
+
 A Build Guide will be added shortly
 
 ## Images
