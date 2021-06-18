@@ -16,6 +16,7 @@ Planned Improvements - Add support for an acrylic window for the components on t
 
 ## Make Your Own
 [Parts List](PartsList.md)
+A Build Guide will be added shortly
 
 ## Images
 ![Keyboard](resources/photoshoot.png)
