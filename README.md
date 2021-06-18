@@ -2,11 +2,9 @@
 
 ## A Budget-Oriented Ortholinear Keyboard
 
-Revision 0 - I do not reccomend making this at the moment, it is more expensive and time consuming to build then it needs to be
+Current Version 1.1 - Adds support for pcb mount stabilizers, makes the design easier to assemble, and decreases price of production
 
-Revision 1 **(In Progress)** - Fixes the flaws of Revision 0 and will improve the design for easier construction (possibly add PCB mount stabilizers)
-
-Revision 2 **(Not Final)** - Add an acrylic window on the left and orings for better vibration isolation
+Planned Improvements - Add support for an acrylic window for the components on the left
 
 ## Features
 - Rotary Encoder
@@ -17,7 +15,10 @@ Revision 2 **(Not Final)** - Add an acrylic window on the left and orings for be
 - Compatible with a variety of Microcontrollers
 
 ## Make Your Own
+
 [Parts List](PartsList.md)
+
+A Build Guide will be added shortly
 
 ## Images
 ![Keyboard](resources/photoshoot.png)
