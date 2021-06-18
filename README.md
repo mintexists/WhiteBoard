@@ -23,7 +23,7 @@ A Build Guide will be added shortly
 ## Images
 ![Keyboard](resources/photoshoot.png)
 
-## Default Keymap
+## My Keymap
 ![1](resources/keymap1.png)
 ![2](resources/keymap2.png)
 ![3](resources/keymap3.png)
